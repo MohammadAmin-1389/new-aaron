@@ -1,0 +1,23 @@
+
+@import "tailwindcss";
+li{
+    color:#ffffff96;
+}
+@theme{
+--font-rubik: "Rubik", sans-serif;
+--font-syne: "Syne", sans-serif;
+
+--color-mamad-color:#FFFFFF;
+}
+h1{
+    color:#FFFFFF;
+}
+#buttun{
+    color:#FFFFFF;
+}
+h2{
+    color:#FFFFFF;
+}
+p{
+    color: #a8a8a8;;
+}
